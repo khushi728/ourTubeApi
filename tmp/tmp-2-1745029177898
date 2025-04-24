@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="hi" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.120" end="00:00:03.040" style="s2">दो लैंग्वेज सीख लेते हो तो लगभग हर काम</p>
+<p begin="00:00:01.520" end="00:00:04.920" style="s2">आप कर सकते हो चाहे मोबाइल प डेवलपमेंट</p>
+<p begin="00:00:03.040" end="00:00:06.440" style="s2">चाहे आप वे डेवलपमेंट चाहे एथिकल हैकिंग</p>
+<p begin="00:00:04.920" end="00:00:08.440" style="s2">चाहे सर्वर साइट प्रोग्रामिंग चाहे मशीन</p>
+<p begin="00:00:06.440" end="00:00:09.719" style="s2">लर्निंग चाहे डेटा साइंस आप जो भी चाहो आप</p>
+<p begin="00:00:08.440" end="00:00:10.960" style="s2">लगभग हर काम कर सकते हो अगर ये दो</p>
+<p begin="00:00:09.719" end="00:00:13.519" style="s2">लैंग्वेज सीख लेते हो तो और वो दो</p>
+<p begin="00:00:10.960" end="00:00:15.160" style="s2">लैंग्वेज है python&#39;s क्रिप्ट एगजैक्टली</p>
+<p begin="00:00:13.519" end="00:00:16.640" style="s2">ये दोनों लैंग्वेज आज के टाइम पे टॉप</p>
+<p begin="00:00:15.160" end="00:00:18.000" style="s2">प्रोग्रामिंग लैंग्वेजेज है मजे की बात ये</p>
+<p begin="00:00:16.640" end="00:00:19.439" style="s2">है कि ये सारे लैंग्वेजेस मैंने अपने चैनल</p>
+<p begin="00:00:18.000" end="00:00:21.000" style="s2">पे सिखा रखा आप जाकर के उस चैनल को विजिट</p>
+<p begin="00:00:19.439" end="00:00:22.600" style="s2">कर सकते हो एसबीएस ऑनलाइन क्लासेस और वहां</p>
+<p begin="00:00:21.000" end="00:00:24.400" style="s2">पे चीजें जाकर के सीख सकते हो हिंदी में</p>
+<p begin="00:00:22.600" end="00:00:25.960" style="s2">एकदम जीरो से है एगजैक्टली तो आप मेरे को</p>
+<p begin="00:00:24.400" end="00:00:29.000" style="s2">कमेंट करके बताओ कि आपको ये में से कौन सा</p>
+<p begin="00:00:25.960" end="00:00:29.000" style="s2">लैंग्वेज आपको आता है</p>
+</div>
+</body>
+</tt>

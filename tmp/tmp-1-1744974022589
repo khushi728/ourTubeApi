@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="hi" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.199" end="00:00:02.879" style="s2">यदि आप भी डेस्कटॉप बना चाहते हो तो इसमें</p>
+<p begin="00:00:01.719" end="00:00:04.560" style="s2">से कोई भी लैंग्वेज यूज़ करके आप आराम से</p>
+<p begin="00:00:02.879" end="00:00:05.640" style="s2">डेस्कटॉप बना सकते हो जिस भी लैंग्वेज में</p>
+<p begin="00:00:04.560" end="00:00:07.120" style="s2">आप कंफर्टेबल फील करते होगे आप उस</p>
+<p begin="00:00:05.640" end="00:00:09.080" style="s2">लैंग्वेज को यूज़ करो डेस्कटॉप प में बना</p>
+<p begin="00:00:07.120" end="00:00:10.880" style="s2">लो राइट एगजैक्टली नंबर फोर पे मैं रखना</p>
+<p begin="00:00:09.080" end="00:00:12.719" style="s2">चाहूंगा सीसर को अगर आपको सीसर आते हैं तो</p>
+<p begin="00:00:10.880" end="00:00:14.599" style="s2">आप विन फॉर्म्स का यूज़ करके आराम से</p>
+<p begin="00:00:12.719" end="00:00:16.359" style="s2">डेस्कटॉप एप्लीकेशन बना सकते हो नाउ नंबर</p>
+<p begin="00:00:14.599" end="00:00:19.160" style="s2">थ्री पे मैं रखना चाहूंगा जावा को अगर</p>
+<p begin="00:00:16.359" end="00:00:21.359" style="s2">आपको जावा लैंग्वेज आते हैं तो आप उसमें</p>
+<p begin="00:00:19.160" end="00:00:23.680" style="s2">जावा f का यूज़ करके डेस्कटॉप ए बना सकते</p>
+<p begin="00:00:21.359" end="00:00:26.199" style="s2">हो एगजैक्टली नाउ नंबर टू पे मैं रखना</p>
+<p begin="00:00:23.680" end="00:00:28.480" style="s2">चाहूंगा जेएस जावास्क्रिप्ट को बिल्कुल</p>
+<p begin="00:00:26.199" end="00:00:31.439" style="s2">अगर आपको एटीए सए जावास्क्रिप्ट का नॉलेज</p>
+<p begin="00:00:28.480" end="00:00:34.320" style="s2">है पहले से आप डेवलपमेंट कर रहे हो तो आप</p>
+<p begin="00:00:31.439" end="00:00:36.480" style="s2">इस नॉलेज को यूज करके electron.js सीख</p>
+<p begin="00:00:34.320" end="00:00:37.960" style="s2">सकते हो जिससे आप आराम से डेस्कटॉप बना</p>
+<p begin="00:00:36.480" end="00:00:39.719" style="s2">सकते हो बहुत सारे डेस्कटॉप एप्लीकेशन आज</p>
+<p begin="00:00:37.960" end="00:00:40.680" style="s2">के टाइम पे electron.js से बनाए जा रहे</p>
+<p begin="00:00:39.719" end="00:00:42.200" style="s2">हैं बहुत सारे प्रोजेक्ट मार्केट में</p>
+<p begin="00:00:40.680" end="00:00:43.840" style="s2">ऑलरेडी चल रहे हैं आप जाकर के सर्च कर</p>
+<p begin="00:00:42.200" end="00:00:44.920" style="s2">सकते हो एगजैक्टली ना नंबर वन पे रखना</p>
+<p begin="00:00:43.840" end="00:00:47.920" style="s2">चाहूंगा मैं python2 अगर आपको</p>
+<p begin="00:00:44.920" end="00:00:47.920" style="s2">pythonanywhere.com</p>
+</div>
+</body>
+</tt>
