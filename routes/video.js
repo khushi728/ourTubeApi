@@ -247,7 +247,7 @@ Router.put('/views/:videoId',async(req,res)=>{
     {
         const video = await Video.findById(req.params.videoId)
         console.log(video)
-        video.views += 1
+        video.view += 1
         await video.save();
         res.status(200).json({
             msg:'Ok'
