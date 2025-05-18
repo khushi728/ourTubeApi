@@ -13,7 +13,7 @@ const viedoSchema = new mongoose.Schema({
     tags:[{type:String}],
     likes:{type:Number,default:0},
     dislikes:{type:Number,default:0},
-    views:{type:Number,default:0},
+    view:{type:Number,default:0},
     likedby:[{type:mongoose.Schema.Types.ObjectId,ref:'User'}],
     dislikedby:[{type:mongoose.Schema.Types.ObjectId,ref:'User'}],
     //viewedBy:[{type:mongoose.Schema.Types.ObjectId,ref:'User'}]
